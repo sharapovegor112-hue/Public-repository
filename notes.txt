@@ -1,3 +1,4 @@
 Line 1
 MASTER change
+BRANCH1 change
 Line 3

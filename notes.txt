@@ -1,4 +1,3 @@
 Line 1
-Common line
+BRANCH1 change
 Line 3
-Second commit extra line
